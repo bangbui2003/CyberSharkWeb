@@ -1,6 +1,6 @@
 ## GIỚI THIỆU ĐỒ ÁN
 
-- **Đề tài:** Trang website cửa hàng thú cưng
+- **Đề tài:** Trang website bán các thiết bị công nghệ
 
 ## CÔNG NGHỆ SỬ DỤNG
 
